@@ -1,0 +1,25 @@
+# Секреты
+.env
+.env.*
+!.env.example-
+
+# Результаты генерации (примеры для сдачи остаются в git)
+!examples/*.pdf
+reports/*.pdf
+reports/*.json
+*.log
+
+# Страница урока
+*.html
+*_files/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+pytest-of-*/
+
+# Прочее
+.DS_Store
