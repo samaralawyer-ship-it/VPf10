@@ -1,7 +1,7 @@
 # Секреты
 .env
 .env.*
-!.env.example-
+!.env.example
 
 # Результаты генерации (примеры для сдачи остаются в git)
 !examples/*.pdf
